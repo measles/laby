@@ -6,6 +6,7 @@ en_US.UTF-8	Welcome to laby, a programming game.
 es_MX.UTF-8	Bienvenido a laby, un juego de programación.
 fr_FR.UTF-8	Bienvenue. Voici laby, un jeu de programmation.
 ru_RU.UTF-8	Добро пожаловать в laby, игру для изучения программирования
+be_BY.UTF-8	Вітаем вас ў laby, гульне для вывучэння праграміравання.
 
 text		I'm ready
 ca_ES.UTF-8	Estic apunt
@@ -26,6 +27,7 @@ sq_AL.UTF-8	Jam gati
 sv_SV.UTF-8	Jag är redo
 tr_TR.UTF-8	Ben Hazırım
 uk_UA.UTF-8	Я готовий
+be_BY.UTF-8	Я гатовы
 
 text		Something went wrong
 ca_ES.UTF-8	Alguna cosa no ha funcionat
@@ -46,6 +48,7 @@ sq_AL.UTF-8	Diçka ka shkuar keq
 sv_SV.UTF-8	Något gick fel
 tr_TR.UTF-8	Birşeyler yanlış
 uk_UA.UTF-8	Щось не так
+be_BY.UTF-8	Нешта не атрымалася
 
 text		I can't go through the wall.
 ca_ES.UTF-8	No puc travessar la paret.
@@ -66,6 +69,7 @@ sq_AL.UTF-8	Nuk mund të ec përmes murit.
 sv_SV.UTF-8	Jag kan inte gå genom väggen.
 tr_TR.UTF-8	Duvardan geçemiyorum.
 uk_UA.UTF-8	Я не можу пройти крізь стіну
+be_BY.UTF-8	Я не магу праходзіць скрозь сцены.
 
 text		I can't go through this rock.
 ca_ES.UTF-8	No puc travessar aquesta pedra.
@@ -86,6 +90,7 @@ sq_AL.UTF-8	Ky gur nuk më lë të ec.
 sv_SV.UTF-8	Jag kan inte gå genom den här stenen.
 tr_TR.UTF-8	Bu taştan geçemiyorum.
 uk_UA.UTF-8	Я не можу пройти крізь цей камінь.
+be_BY.UTF-8	Я не магу ісці праз гэты камень.
 
 text		I can't go through the door.
 ca_ES.UTF-8	No puc travessar aquesta porta.
@@ -106,6 +111,7 @@ sq_AL.UTF-8	Nuk mund të shkoj përmes derës.
 sv_SV.UTF-8	Jag kan inte gå genom dörren.
 tr_TR.UTF-8	Kapıdan geçemiyorum.
 uk_UA.UTF-8	Я не можу пройти крізь двері.
+be_BY.UTF-8	Я не магу ісці скрозь дзверы.
 
 text		Oops, a spider web.
 ca_ES.UTF-8	Vaja, una teranyina!
@@ -126,6 +132,7 @@ sq_AL.UTF-8	Oop, një rrjetë merimange.
 sv_SV.UTF-8	Oj, ett spindelväv.
 tr_TR.UTF-8	Olamaz! Örümcek!
 uk_UA.UTF-8	Ой, павутина!
+be_BY.UTF-8	Вой! Павуціна!
 
 text		I can't move anymore.
 ca_ES.UTF-8	No em puc moure.
@@ -146,6 +153,7 @@ sq_AL.UTF-8	Nuk lëviz dot më.
 sv_SV.UTF-8	Jag kan inte röra mig mer.
 tr_TR.UTF-8	Hareket edemiyorum.
 uk_UA.UTF-8	Я не можу рухатися.
+be_BY.UTF-8	Не магу рухацца далей.
 
 text		Wohoo, the exit!
 ca_ES.UTF-8	Hurra, la sortida!
@@ -166,6 +174,7 @@ sq_AL.UTF-8	Urraa, dalja!
 sv_SV.UTF-8	Wohoo, utgången!
 tr_TR.UTF-8	Evet, çıkış!
 uk_UA.UTF-8	Ура! Вихід!
+be_BY.UTF-8	Ура! Выхад!
 
 text		I can't find a door to open.
 ca_ES.UTF-8	No puc trobar una porta per a obrir.
@@ -186,6 +195,7 @@ sq_AL.UTF-8	Nuk kam çfarë dere të hap.
 sv_SV.UTF-8	Jag kan inte hitta en dörr att öppna.
 tr_TR.UTF-8	Açacak bir kapı bulamadım.
 uk_UA.UTF-8	Не можу знайти двері, щоб їх відкрити.
+be_BY.UTF-8	Не магу адшукаць дзверы, якія я мушу адчыніць.
 
 text		I can't go out carrying a rock.
 ca_ES.UTF-8	No puc sortir mentre carrego la pedra.
@@ -206,6 +216,7 @@ sq_AL.UTF-8	Nuk mund të dalë jashtë duke mbajtur një gur.
 sv_SV.UTF-8	Jag kan inte gå ut bärandes på en sten.
 tr_TR.UTF-8	Bir taş taşırken çıkamam.
 uk_UA.UTF-8	Я не можу вийти з каменем.
+be_BY.UTF-8	Не магу выйсці з каменем.
 
 text		I'm already carrying a rock.
 ca_ES.UTF-8	Jo ja porto una pedra.
@@ -226,6 +237,7 @@ sq_AL.UTF-8	Unë jam tashmë mbante një gur.
 sv_SV.UTF-8	Jag redan bär en sten.
 tr_TR.UTF-8	Zaten bir taş taşıyorum.
 uk_UA.UTF-8	Я вже здійснюють каменю.
+be_BY.UTF-8	Я ужо нясу камень.
 
 text		There's no rock to take here.
 ca_ES.UTF-8	Aquí no hi ha cap pedra per a agafar.
@@ -246,6 +258,7 @@ sq_AL.UTF-8	Nuk ka çfarë guri të marr këtu.
 sv_SV.UTF-8	Det finns ingen sten att bära här.
 tr_TR.UTF-8	Alınacak taş yok.
 uk_UA.UTF-8	Тут немає жодного каменя.
+be_BY.UTF-8	Тут няма камянёў каб падняць.
 
 text		I can't drop the rock here.
 ca_ES.UTF-8	No puc deixar la pedra aquí.
@@ -266,6 +279,7 @@ sq_AL.UTF-8	Nuk mund ta lë gurin këtu.
 sv_SV.UTF-8	Jag kan inte släppa stenen här.
 tr_TR.UTF-8	Taşı buraya bırakamam.
 uk_UA.UTF-8	Я не можу кинути сюди камінь.
+be_BY.UTF-8	Не магу кінуць камень сюды.
 
 text		I have nothing to drop.
 ca_ES.UTF-8	No tinc res per a deixar anar.
@@ -283,6 +297,7 @@ ru_RU.UTF-8	Мне нечего бросить.
 sv_SV.UTF-8	Jag har inget att släppa.
 tr_TR.UTF-8	Bırakacak bir şeyim yok.
 uk_UA.UTF-8	Мені нічого кидати.
+be_BY.UTF-8	Няма чаго кідаць.
 
 # ascii api names (no funny characters)
 
@@ -303,6 +318,7 @@ pt_BR.UTF-8	Formiga
 sq_AL.UTF-8	Milingona
 sv_SV.UTF-8	Myra
 #tr_TR.UTF-8	Karınca
+be_BY.UTF-8	Мураш
 
 text:ascii	ant
 ca_ES.UTF-8	formiga
@@ -321,6 +337,7 @@ pt_BR.UTF-8	formiga
 sq_AL.UTF-8	milingona
 sv_SV.UTF-8	myra
 #tr_TR.UTF-8	karınca
+be_BY.UTF-8	мураш
 
 text:ascii	left
 ca_ES.UTF-8	esquerra
@@ -339,6 +356,7 @@ pt_BR.UTF-8	esquerda
 sq_AL.UTF-8	majtas
 sv_SV.UTF-8	vanster
 #tr_TR.UTF-8	sol
+
 
 text:ascii	right
 ca_ES.UTF-8	dreta
@@ -579,6 +597,7 @@ ca_ES.UTF-8	Menu
 en_US.UTF-8	Menu
 es_MX.UTF-8	Menu
 fr_FR.UTF-8	Menu
+be_BY.UTF-8	Меню
 
 text		Level
 ca_ES.UTF-8	Nivell
@@ -599,6 +618,7 @@ sq_AL.UTF-8	Niveli
 sv_SV.UTF-8	Nivå
 tr_TR.UTF-8	Seviye
 uk_UA.UTF-8	Рівень
+be_BY.UTF-8	Узровень
 
 text		Language:
 ca_ES.UTF-8	Idioma:
@@ -619,6 +639,7 @@ sq_AL.UTF-8	Gjuha:
 sv_SV.UTF-8	Språk:
 tr_TR.UTF-8	Dil:
 uk_UA.UTF-8	Мова:
+be_BY.UTF-8	Мова:
 
 text		Program:
 ca_ES.UTF-8	Programa:
@@ -639,6 +660,7 @@ sq_AL.UTF-8	Programi:
 sv_SV.UTF-8	Program:
 tr_TR.UTF-8	Program:
 uk_UA.UTF-8	Програма:
+be_BY.UTF-8	Праграма:
 
 text		Messages:
 ca_ES.UTF-8	Missatges:
@@ -659,6 +681,7 @@ sq_AL.UTF-8	Mesazhet:
 sv_SV.UTF-8	Medelanden:
 tr_TR.UTF-8	Mesajlar:
 uk_UA.UTF-8	Повідомлення:
+be_BY.UTF-8	Паведамленні:
 
 text		Help:
 ca_ES.UTF-8	Ajuda:
@@ -679,6 +702,7 @@ sq_AL.UTF-8	Ndihmë:
 sv_SV.UTF-8	Hjälp:
 tr_TR.UTF-8	Yardım:
 uk_UA.UTF-8	Допомога:
+be_BY.UTF-8	Даведка:
 
 text		graphic interface configuration
 ca_ES.UTF-8	configuració de la interfície gràfica
@@ -699,6 +723,7 @@ sq_AL.UTF-8	rregullimi i ndërfaqes grafike
 sv_SV.UTF-8	grafiskt gränssnittskonfiguration
 tr_TR.UTF-8	arayüz ayarları
 uk_UA.UTF-8	налаштування інтерфейсу
+be_BY.UTF-8	настройкі графічнага інтэрфейса
 
 text		cannot load syntax for <name> mod
 ca_ES.UTF-8	impossible carregar la sintaxi del mode <name>.
@@ -718,6 +743,7 @@ sq_AL.UTF-8	nuk mund të marr sintaksën për mënyrën <name>
 sv_SV.UTF-8	kan inte ladda syntax för <name> modden
 tr_TR.UTF-8	<name> modu yüklenemiyor
 uk_UA.UTF-8	не можу завантажити синтаксис для мод <name>
+be_BY.UTF-8	не магу загрузіць сінтаксіс для моду <name>
 
 
 # command line options
@@ -738,6 +764,7 @@ sq_AL.UTF-8	madhësia e pllakave në pixel
 sv_SV.UTF-8	välj en specifik programmerings-modd
 tr_TR.UTF-8	bir programlama dili seçin
 uk_UA.UTF-8	обрати програмний мод
+be_BY.UTF-8	выбраць праграмны мод
 
 text		size of tiles in pixels
 ca_ES.UTF-8	tamany de les caselles en píxels
@@ -757,6 +784,7 @@ ru_RU.UTF-8	размер ячейки в пикселях
 sv_SV.UTF-8	storlek av tile i pixlar
 tr_TR.UTF-8	kiremitlerin piksel cinsinden büyüklüğü
 uk_UA.UTF-8	розмір комірки в пікселях
+be_BY.UTF-8	памерк клеткі ў пікселях
 
 text		language
 ca_ES.UTF-8	idioma
@@ -775,6 +803,7 @@ ru_RU.UTF-8	язык
 sv_SV.UTF-8	språk
 tr_TR.UTF-8	dil
 uk_UA.UTF-8	мова
+be_BY.UTF-8	мова
 
 
 # sound.ml
@@ -798,6 +827,7 @@ sq_AL.UTF-8	rregullimi i zërit
 sv_SV.UTF-8	ljudkonfiguration
 tr_TR.UTF-8	ses ayarları
 uk_UA.UTF-8	налаштування звуку
+be_BY.UTF-8	настройкі гука
 
 text		enable or disable sounds
 ca_ES.UTF-8	activar o desactivar el so.
@@ -818,6 +848,7 @@ sq_AL.UTF-8	aktivizo ose ç'aktivizo zërin
 sv_SV.UTF-8	aktivera eller avaktivera ljud
 tr_TR.UTF-8	sesi aç/kapa
 uk_UA.UTF-8	ввімкнути чи вимкнути звук
+be_BY.UTF-8	уключыць ці выключыць гукі
 
 
 # level.ml
@@ -841,6 +872,7 @@ sq_AL.UTF-8	pllakë e panjohur
 sv_SV.UTF-8	okänd tile
 tr_TR.UTF-8	bilinmeyen tuğla
 uk_UA.UTF-8	невідома комірка
+be_BY.UTF-8	невядомая клетка
 
 text		mismatching line length
 ca_ES.UTF-8	la longitud de la línia no és correcta
@@ -861,6 +893,7 @@ sq_AL.UTF-8	gjatësia e rreshtit nuk përputhet
 sv_SV.UTF-8	fel i linje längden
 tr_TR.UTF-8	eşleşmeyen hat uzunluğu
 uk_UA.UTF-8	невідповідна довжина рядка
+be_BY.UTF-8	радок няправільнай даўжыні
 
 text		bad level format: <file>
 ca_ES.UTF-8	nivell mal format al fitxer <file>
@@ -880,6 +913,7 @@ sq_AL.UTF-8	format i pasaktë niveli: <file>
 sv_SV.UTF-8	fel nivå format: <file>
 tr_TR.UTF-8	yanlış dosya formatı: <file>
 uk_UA.UTF-8	помилковий формат рівня: <file>
+be_BY.UTF-8	благі фармат узроўню: <file>
 
 text		missing level section <name> in: <file>
 ca_ES.UTF-8	la secció <name> no es troba al nivell <file>
